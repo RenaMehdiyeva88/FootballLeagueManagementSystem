@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.BLL\obj\Debug\net10.0\FootballLeagueManagement.BLL.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.BLL\obj\Debug\net10.0\FootballLeagueManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.BLL\obj\Debug\net10.0\FootballLeagueManagement.BLL.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.BLL\obj\Debug\net10.0\FootballLeagueManagement.BLL.AssemblyInfo.cs
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.BLL\obj\Debug\net10.0\FootballLeagueManagement.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.BLL\bin\Debug\net10.0\FootballLeagueManagement.BLL.deps.json
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.BLL\bin\Debug\net10.0\FootballLeagueManagement.BLL.dll
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.BLL\bin\Debug\net10.0\FootballLeagueManagement.BLL.pdb
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.BLL\bin\Debug\net10.0\FootballLeagueManagement.DAL.dll
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.BLL\bin\Debug\net10.0\FootballLeagueManagement.DAL.pdb
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.BLL\obj\Debug\net10.0\Football.356EE1D3.Up2Date
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.BLL\obj\Debug\net10.0\FootballLeagueManagement.BLL.dll
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.BLL\obj\Debug\net10.0\refint\FootballLeagueManagement.BLL.dll
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.BLL\obj\Debug\net10.0\FootballLeagueManagement.BLL.pdb
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.BLL\obj\Debug\net10.0\ref\FootballLeagueManagement.BLL.dll
