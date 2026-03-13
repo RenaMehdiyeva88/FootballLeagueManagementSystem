@@ -1,0 +1,14 @@
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.DAL\obj\Debug\net10.0\FootballLeagueManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.DAL\obj\Debug\net10.0\FootballLeagueManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.DAL\obj\Debug\net10.0\FootballLeagueManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.DAL\obj\Debug\net10.0\FootballLeagueManagement.DAL.AssemblyInfo.cs
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.DAL\obj\Debug\net10.0\FootballLeagueManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.DAL\bin\Debug\net10.0\FootballLeagueManagement.DAL.deps.json
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.DAL\bin\Debug\net10.0\FootballLeagueManagement.DAL.runtimeconfig.json
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.DAL\bin\Debug\net10.0\FootballLeagueManagement.DAL.dll
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.DAL\bin\Debug\net10.0\FootballLeagueManagement.DAL.pdb
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.DAL\obj\Debug\net10.0\FootballLeagueManagement.DAL.dll
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.DAL\obj\Debug\net10.0\refint\FootballLeagueManagement.DAL.dll
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.DAL\obj\Debug\net10.0\FootballLeagueManagement.DAL.pdb
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.DAL\obj\Debug\net10.0\FootballLeagueManagement.DAL.genruntimeconfig.cache
+C:\Users\Emil\source\repos\FootballLeagueManagement\FootballLeagueManagement.DAL\obj\Debug\net10.0\ref\FootballLeagueManagement.DAL.dll
